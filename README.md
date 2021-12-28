@@ -1,6 +1,8 @@
 # Kafka Tutorial
 ### This is a _step-by-step_ Kafka Tutorial to move you from beginner to advanved level in Kafka. This tutorial was inspired from [Apache Kafka course](https://www.udemy.com/course/apache-kafka/) that I recommed a lot.
 
+This is a _step-by-step_ example that shows some importants things existing on Apache Kafka. In this case, consumer and producer are integrated to produce data from Twitter API using filters, streams and others "kafkaesque" to Elasticsearch.
+
 ## This repository contains the structure below:
 - kafka-basics
 - kafka-producer-twitter
