@@ -1,5 +1,5 @@
 # Kafka Tutorial
-## This is a _setp-by-step_ Kafka Tutorial to move you from beginner to advanved level in Kafka. This tutorial was inspired by samples from [Apache Kafka course](https://www.udemy.com/course/apache-kafka/) that I recommed a lot.
+### This is a _setp-by-step_ Kafka Tutorial to move you from beginner to advanved level in Kafka. This tutorial was inspired from [Apache Kafka course](https://www.udemy.com/course/apache-kafka/) that I recommed a lot.
 
 ## This repository contains the structure below:
 - kafka-basics
