@@ -15,6 +15,7 @@
 - [Elaticsearch installed on-promise in your machine or use shift-cloud provider as Bomsai](https://app.bonsai.io/)
 - [Elasticsearch API](https://www.elastic.co/guide/en/elasticsearch/reference/7.16/cat-health.html)
 - [Knowloge about basic and intermediate Java 8 concepts such as Generics, Lists, Streams and Modules](https://www.journaldev.com/2389/java-8-features-with-examples)
+- [In-Sync Replicas in Apache Kafka](https://www.cloudkarafka.com/blog/what-does-in-sync-in-apache-kafka-really-mean.html)
 
 ## To make sure that you have all dependencies check this command in root folder
 
